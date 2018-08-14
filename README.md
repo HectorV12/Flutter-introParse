@@ -1,6 +1,6 @@
-# introparse
+# Flutter Project introparse
 
-A new Flutter application.
+A Flutter application example of Parsing Json Data.
 
 ## Getting Started
 
